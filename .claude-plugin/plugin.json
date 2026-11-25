@@ -1,0 +1,7 @@
+{
+  "name": "workflow-skills",
+  "version": "1.0.0",
+  "description": "Nine skills that keep long Claude Code work on track: plan on disk, hand off sessions, review adversarially, sweep for unfinished work, and fix recurring friction for good",
+  "author": { "name": "jceou-labs" },
+  "license": "MIT"
+}

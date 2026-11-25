@@ -1,0 +1,6 @@
+{
+  "name": "jceou-labs",
+  "description": "Claude Code plugins by jceou-labs",
+  "owner": { "name": "jceou-labs" },
+  "plugins": [{ "name": "workflow-skills", "source": "./" }]
+}
