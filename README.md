@@ -52,7 +52,7 @@ In the desktop app: click + next to the prompt box, then Plugins, Add marketplac
 
 ## See also
 
-- [context-claude](https://github.com/jceou-labs/context-claude): a context gauge above the Claude Code prompt, with Compact and Handoff note buttons.
+- [claude-context](https://github.com/jceou-labs/claude-context): a context gauge above the Claude Code prompt, with Compact and Handoff note buttons.
 - [claude-project-tracker](https://github.com/jceou-labs/claude-project-tracker): offline pages showing where your projects stand, kept up to date by Claude.
 - [claude-local-images](https://github.com/jceou-labs/claude-local-images): lets Claude generate images on your own graphics card, free and private.
 
