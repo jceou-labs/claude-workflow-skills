@@ -2,6 +2,8 @@
 
 Nine skills for Claude Code that keep long pieces of work on track: across sessions, across compactions, and across projects.
 
+![The claude-workflow-skills pack on a pegboard, listing its nine skills: session-handoff, session-retro, plan-first, adversarial-review, repo-sweep, bottleneck-log, reusable-bricks, stack-discipline and secrets-centralization](docs/preview.jpg)
+
 Each one is a plain `SKILL.md`. Claude loads it when the situation calls for it, or when you ask by name.
 
 ## The skills
